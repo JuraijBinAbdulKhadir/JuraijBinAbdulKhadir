@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JuraijBinAbdulKhadir
-- 👀 I’m interested in ...front end developing/python/mysql
-- 🌱 I’m currently learning ...tensorflow
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...front end developing/FLUTTER/python/mysql/html:css
 - 📫 How to reach me ...contact me thru my mail. 
 
 <!---
