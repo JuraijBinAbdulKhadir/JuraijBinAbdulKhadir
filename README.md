@@ -2,7 +2,7 @@
 - Doing Flutter for almost a year
 - Done main company projects using flutter
 - Done Mini Projects Using Flutter 
-- 👀 I’m interested in ...front end developing/FLUTTER/python/mysql/html:css
+- 👀 I’m interested in ...==>FLUTTER/DART/FIREBASE/IPTV/PROVIDER/PYTHON/MYSQL/HTML:CSS
 - 📫 How to reach me ...contact me thru my email======>juraijbinabdulkhadir@gmail.com
 
 - 
