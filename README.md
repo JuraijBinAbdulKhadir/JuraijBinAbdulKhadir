@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JuraijBinAbdulKhadir
-- Doing Flutter for 8 months
+- Doing Flutter for almost a year
+- Done main company projects using flutter
 - Done Mini Projects Using Flutter 
 - 👀 I’m interested in ...front end developing/FLUTTER/python/mysql/html:css
 - 📫 How to reach me ...contact me thru my email======>juraijbinabdulkhadir@gmail.com
