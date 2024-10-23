@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=2000&random=false&width=435&lines=Flutter+App+Builder+:+JURAIJ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=2000&random=false&width=700&lines=Flutter+App+Builder+:+JURAIJ)](https://git.io/typing-svg)
 - 👋 Hi, I’m @JuraijBinAbdulKhadir
 - Doing Flutter for almost a year
 - Done main company projects using flutter
