@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=2000&random=false&width=700&lines=Software+Developer)](https://git.io/typing-svg)
 # 💫 About Me:
-Flutter Developer<br>- 👋 Hi, I’m @JuraijBinAbdulKhadir<br>- Doing Flutter for over a year<br>- Done main company projects using flutter<br>- Done Mini Projects Using Flutter <br>- 👀 I’m interested in ...==>GAMING,READING,CODING,RESEARCHING,ACQUIRING KNOWLEDGE<br>- 📫 How to reach me ...contact me thru my email======>juraijbinabdulkhadir@gmail.com
+Software Builder<br>- 👋 Hi, I’m @JuraijBinAbdulKhadir<br>- Doing Flutter for more than two years<br>- Done main company projects using flutter<br>- Done Mini Projects Using Flutter <br>- 👀 I’m interested in ...==>GAMING,READING,CODING,RESEARCHING,ACQUIRING KNOWLEDGE<br>- 📫 How to reach me ...contact me thru my email======>juraijbinabdulkhadir@gmail.com
 
 
 ## 🌐 Socials:
